@@ -19,7 +19,7 @@ npm install -g @angular/cli@9.1.7
 
 3. Clone the project locally into your system.
 ```
-git clone https://github.com/codingwithpeter/SBA-loan-project
+git clone https://github.com/code7cs/SBALoan
 ```
 
 4. `cd` into project root directory and make sure you are on the master branch.
